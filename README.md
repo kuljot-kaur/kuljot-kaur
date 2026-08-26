@@ -37,8 +37,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuljot-kaur&theme=aura&hide_border=false" alt="Kuljot's GitHub Stats"/><br/>
+  <img src="https://github-stats-extended.vercel.app/api?username=kuljot-kaur&theme=aura&hide_border=false" alt="Kuljot's GitHub Stats"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuljot-kaur&theme=aura&hide_border=false" alt="Kuljot's Streak Stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuljot-kaur&theme=aura&hide_border=false&layout=compact" alt="Kuljot's Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kuljot-kaur&theme=aura&hide_border=false&layout=compact" alt="Kuljot's Top Languages"/>
 </div>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
