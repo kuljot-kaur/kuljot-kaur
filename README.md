@@ -6,8 +6,8 @@
 ---
 
 ## 👩‍💻 About Me
-* 🎓 Pursuing a B.Tech in Computer Science at **SRM Institute of Science and Technology (SRMIST)**
-* 🔬 Published researcher: *"Neuromorphic Edge Computing: A Survey of Brain-Inspired Architectures for Low-Power AI"* in IEEE Xplore (ICECMSN 2025)
+* 🎓 Pursuing a B.Tech in Computer Science at **SRM Institute of Science and Technology (SRMIST)** with a **9.55 CGPA** (85%).
+* 🔬 Published researcher: *"Neuromorphic Edge Computing: A Survey of Brain-Inspired Architectures for Low-Power AI"* in IEEE Xplore (ICECMSN 2025).
 * 🚀 Passionate about building high-performance AI systems, edge computing optimization, and scalable web architectures.
 * 🌐 Portfolio: [kuljot.vercel.app](https://kuljot.vercel.app)
 
@@ -32,6 +32,7 @@
 * **[Complyt](https://github.com/kuljot-kaur/Complyt):** Architected an async document compliance pipeline (`FastAPI + Celery + Redis`) processing complex PDFs, slashing processing time by **82%** (45s $\rightarrow$ 8s per file) with 10x horizontal scaling and end-to-end PII encryption[cite: 1].
 * **[HireIQ](https://github.com/kuljot-kaur/HireIQ):** Developed an end-to-end hiring intelligence system (`React + FastAPI + Groq + Supabase`) analyzing 15+ candidate profiles, reducing recruiter prep time by **60%** (30min $\rightarrow$ 12min) and streamlining interview briefs[cite: 1].
 * **[SmartShelf](https://github.com/kuljot-kaur/SmartShelf):** Built an automated demand forecasting system (`ML models + React dashboard`) hitting **91% prediction accuracy**, decreasing stockouts by 35% and saving 80% of daily manual inventory check time[cite: 1].
+* **[Payment Idempotency Service](https://github.com/kuljot-kaur/payment-idempotency-service):** Built a fault-tolerant payment transaction and idempotency middleware service ensuring safe duplicate request handling and strict exactly-once processing semantic guarantees.
 
 ---
 
