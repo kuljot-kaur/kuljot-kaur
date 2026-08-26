@@ -6,10 +6,10 @@
 ---
 
 ## 👩‍💻 About Me
-* 🎓 Pursuing a B.Tech in Computer Science at **SRM Institute of Science and Technology (SRMIST)** with a **9.55 CGPA** (85%)[cite: 1].
-* 🔬 Published researcher: *"Neuromorphic Edge Computing: A Survey of Brain-Inspired Architectures for Low-Power AI"* in IEEE Xplore (ICECMSN 2025)[cite: 1].
+* 🎓 Pursuing a B.Tech in Computer Science at **SRM Institute of Science and Technology (SRMIST)**
+* 🔬 Published researcher: *"Neuromorphic Edge Computing: A Survey of Brain-Inspired Architectures for Low-Power AI"* in IEEE Xplore (ICECMSN 2025)
 * 🚀 Passionate about building high-performance AI systems, edge computing optimization, and scalable web architectures.
-* 🌐 Portfolio: [kuljot.vercel.app](https://kuljot.vercel.app)[cite: 1]
+* 🌐 Portfolio: [kuljot.vercel.app](https://kuljot.vercel.app)
 
 ---
 
@@ -42,4 +42,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuljot-kaur&theme=aura&hide_border=false&layout=compact" alt="Kuljot's Top Languages"/>
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
