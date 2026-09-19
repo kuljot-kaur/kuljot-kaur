@@ -1,46 +1,79 @@
-## Holaaaaa!!!!! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hey!+I+am+Kuljot+%F0%9F%91%8B;Builder.+Overthinker.+AI+Nerd.;Always+Learning.+Always+Creating." alt="Typing SVG" />
+</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuljot-kaur/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaurkuljot23@gmail.com) 
-
----
-
-## 👩‍💻 About Me
-* 🎓 Pursuing a B.Tech in Computer Science at **SRM Institute of Science and Technology (SRMIST)** with a **9.55 CGPA** (85%).
-* 🔬 Published researcher: *"Neuromorphic Edge Computing: A Survey of Brain-Inspired Architectures for Low-Power AI"* in IEEE Xplore (ICECMSN 2025).
-* 🚀 Passionate about building high-performance AI systems, edge computing optimization, and scalable web architectures.
-* 🌐 Portfolio: [kuljot.vercel.app](https://kuljot.vercel.app)
-
----
-
-# 💻 Tech Stack:
-### Languages & Core
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=flat&logo=sqlite&logoColor=white)
-
-### Frontend & UI
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-
-### Backend, Systems & Databases
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Celery](https://img.shields.io/badge/celery-%23a9cc51.svg?style=flat&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-### Data Science & DevOps Tools
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-131415?style=flat&logo=railway&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-* **[Complyt](https://github.com/kuljot-kaur/Complyt):** Architected an async document compliance pipeline (`FastAPI + Celery + Redis`) processing complex PDFs, slashing processing time by **82%** (45s $\rightarrow$ 8s per file) with 10x horizontal scaling and end-to-end PII encryption[cite: 1].
-* **[HireIQ](https://github.com/kuljot-kaur/HireIQ):** Developed an end-to-end hiring intelligence system (`React + FastAPI + Groq + Supabase`) analyzing 15+ candidate profiles, reducing recruiter prep time by **60%** (30min $\rightarrow$ 12min) and streamlining interview briefs[cite: 1].
-* **[SmartShelf](https://github.com/kuljot-kaur/SmartShelf):** Built an automated demand forecasting system (`ML models + React dashboard`) hitting **91% prediction accuracy**, decreasing stockouts by 35% and saving 80% of daily manual inventory check time[cite: 1].
-* **[Payment Idempotency Service](https://github.com/kuljot-kaur/payment-idempotency-service):** Built a fault-tolerant payment transaction and idempotency middleware service ensuring safe duplicate request handling and strict exactly-once processing semantic guarantees.
-
----
-
-# 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kuljot-kaur&theme=aura&hide_border=false" alt="Kuljot's GitHub Stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuljot-kaur&theme=aura&hide_border=false" alt="Kuljot's Streak Stats"/><br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kuljot-kaur&theme=aura&hide_border=false&layout=compact" alt="Kuljot's Top Languages"/>
+  <em>I’m a Computer Science student, AI enthusiast, researcher, occasional singer and dancer, and a full-time overthinker.</em>
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+### The Vibe
+My brain operates exactly like my web browser: I have 100 tabs open at all times, three of them are completely frozen, and I have absolutely no idea where the music is coming from. 
+
+I’m endlessly curious and prone to going down random true-crime rabbit holes (which, ironically, is great training for investigating deep-rooted bugs). I believe the best way to learn is by building, breaking, fixing, and dramatically sighing over debugging errors before trying again. 
+
+---
+
+<details>
+<summary><b> The "Okay, But Can She Actually Code?" Section (Click to expand!)</b></summary>
+<br>
+
+Yes, absolutely. 
+* 🎓 Pursuing a B.Tech in Computer Science at **SRM Institute of Science and Technology** with a **9.55 CGPA**[cite: 1].
+* 🤖 By day (and night), I am an AI/ML Intern at **Samsung R&D Institute India**, teaching machines how to recognize human emotions from speech with an **87% accuracy rate**[cite: 4].
+* 🔬 Officially published researcher: *"Neuromorphic Edge Computing: A Survey of Brain-Inspired Architectures for Low-Power AI"* in IEEE Xplore[cite: 1].
+* 🏆 Certified as a **Microsoft SQL AI Developer Associate**[cite: 2].
+
+</details>
+
+<details>
+<summary><b>My Digital Playground (A.K.A. Things I've Built)</b></summary>
+<br>
+
+* **[Complyt](https://github.com/kuljot-kaur/Complyt):** Built an automated pipeline that processes complex PDFs **82% faster** (because nobody has the patience for 45s load times)[cite: 1].
+* **[HireIQ](https://github.com/kuljot-kaur/HireIQ):** Created an AI agent that analyzes candidate profiles and cuts recruiter preparation time by **60%**[cite: 3].
+* **[SmartShelf](https://github.com/kuljot-kaur/SmartShelf):** Developed an AI inventory manager predicting demand with **91% accuracy**, saving 80% of daily manual checking time[cite: 3].
+* **[HFT Spoofing Detector](https://github.com/kuljot-kaur/hft-spoofing-detector):** Engineered a lightning-fast system catching financial market manipulators in **0.78 milliseconds**[cite: 2].
+* **[Payment Idempotency Service](https://github.com/kuljot-kaur/payment-idempotency-service):** Built a fault-tolerant backend ensuring you never get double-charged when impatiently smashing the "pay now" button[cite: 1].
+
+</details>
+
+---
+
+###  My Toolbelt
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <br>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <br>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
+
+---
+
+### The Data Never Lies
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=kuljot-kaur&theme=aura&hide_border=false" alt="Kuljot's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuljot-kaur&theme=aura&hide_border=false" alt="Kuljot's Streak Stats" width="48%" />
+  <br><br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kuljot-kaur&theme=aura&hide_border=false&layout=compact" alt="Kuljot's Top Languages" width="50%" />
+</div>
+
+---
+
+###  Let's Connect!
+<div align="center">
+  <a href="https://github.com/kuljot-kaur"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/kuljot-kaur/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://kuljot.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:kaurkuljot23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
