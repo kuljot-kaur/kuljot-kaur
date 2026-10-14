@@ -3,11 +3,6 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kuljot-kaur&color=blueviolet&style=for-the-badge&label=PROFILE+SNOOPS" alt="Profile Views" />
-</div>
-<br>
-
-<div align="center">
   <em>I’m a Computer Science student, AI enthusiast, researcher, occasional singer and dancer, and a full-time overthinker.</em>
 </div>
 
